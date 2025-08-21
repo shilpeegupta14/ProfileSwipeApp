@@ -4,7 +4,7 @@ Profile Swipe Screen with following functionalities:
 3. Photo Carousel for each profile with photo indicators
 4. Profile Details View
 5. Matches Page
-6. Undo My last swipe 
+6. Undo My last swipe display for 3 Second time-period 
 7. Profile Boost UI: Premium upgrade modal with gradient effects
 8. It's a Match UI
 9. Empty State UI - No more profile screens with refresh
